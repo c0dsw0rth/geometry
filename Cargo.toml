@@ -3,10 +3,8 @@ name = "codsworth_geometry"
 authors = ["Tucker hawkinson <public@hawkinson.dev>"]
 version = "0.0.1"
 edition = "2021"
-license = "MIT"
-description = ""
-repository = "https://github.com/dtolnay/quote"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT OR Apache-2.0"
+description = "Geometry Helpers"
+repository = "https://github.com/c0dsw0rth/geometry"
 
 [dependencies]
